@@ -1,0 +1,40 @@
+{
+    "urls": [
+      {
+        "code": "git",
+        "url": "https://github.com/jimcal/jimcal"
+      },
+      {
+        "code": "twitter",
+        "url": "https://twitter.com/jimcalliu"
+      },
+      {
+        "code": "*",
+        "url": "https://itsj.im/"
+      },
+      {
+        "code": "cascadia",
+        "url": "https://2020.cascadiajs.com/"
+      },
+      {
+        "code": "meetup",
+        "url": "https://www.meetup.com/ProtoSchool-Seattle-Learn-to-Make-the-Decentralized-Web/"
+      },
+      {
+        "code": "500",
+        "url": "https://dev.to/jimcalliu/i-made-a-500-mistake-but-you-don-t-have-to-1bke"
+      },
+      {
+        "code": "notion",
+        "url": "https://dev.to/jimcalliu/turn-me-into-a-brainiac-unboxing-notion-3nd"
+      },
+      {
+        "code": "linkedin",
+        "url": "https://www.linkedin.com/in/jimycliu/"
+      },
+      {
+        "code": "fizbuz",
+        "url": "https://fizbuz.com/u/jim"
+      }
+    ]
+  }
