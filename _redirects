@@ -1,10 +1,13 @@
-/.*5e8c7fff591c  https://kentcdodds.com/blog/full-time-educator
-/Uxoae     https://google.com
-/go        https://google.com
-/cli       https://example.com/from-cli
-/example   https://example.com/changed-hooray
-/foo       https://example.com/foo
-/demo      https://www.youtube.com/watch?v=HL6paXyx6hM
-/edit      https://github.com/kentcdodds/netlify-shortener-example/edit/master/_redirects
 
-/*         https://google.com
+/home         https://itsj.im/
+/cascadiajs  https://2020.cascadiajs.com/
+/meetup      https://example.com/from-cli
+/example     https://www.meetup.com/ProtoSchool-Seattle-Learn-to-Make-the-Decentralized-Web/
+/500         https://dev.to/jimcalliu/i-made-a-500-mistake-but-you-don-t-have-to-1bke
+/notion      https://dev.to/jimcalliu/turn-me-into-a-brainiac-unboxing-notion-3nd
+/linkedin    https://www.linkedin.com/in/jimycliu/
+/fizbuz      https://fizbuz.com/u/jim
+/twitter     https://twitter.com/jimcalliu
+
+
+/*         https://itsj.im/
