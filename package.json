@@ -1,12 +1,13 @@
 {
   "baseUrl": "https://shortener-demo.netlify.com",
   "private": true,
+  "homepage": "https://itsj.im",
   "scripts": {
     "shorten": "netlify-shortener"
   },
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "devDependencies": {
-    "netlify-shortener": "^1.0.1"
+    "netlify-shortener": "^1.0.4"
   }
 }
