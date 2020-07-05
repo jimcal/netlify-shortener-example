@@ -1,12 +1,15 @@
 {
-  "baseUrl": "https://shortener-demo.netlify.com",
-  "private": true,
-  "scripts": {
-    "shorten": "netlify-shortener"
+  "name": "netlify-shortener-example",
+  "version": "1.0.0",
+  "description": "Just a test to see if you could use netlify's own redirect as an url shortener.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimcal/netlify-shortener-example.git"
   },
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
-  "license": "MIT",
-  "devDependencies": {
-    "netlify-shortener": "^1.0.1"
+  "bugs": {
+    "url": "https://github.com/jimcal/netlify-shortener-example/issues"
+  },
+  "scripts": {
+    "build": "node buildRedirect.js"
   }
 }
